@@ -1,6 +1,4 @@
-<template>
-  <div>AMi tir a</div>
-</template>
+<template></template>
 
 <script>
 export default {};
